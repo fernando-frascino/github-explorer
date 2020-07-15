@@ -45,8 +45,5 @@
     ]
   },
   "settings": {
-    "import/resolver": {
-      "typescript": {}
-    }
   }
 }
